@@ -1,8 +1,8 @@
 // Librería
 
 // Función suma
-function suma(op1, op2) {    
-    let result = op1 + op2;
+function suma(op1, op2, op3) {    
+    let result = op1 + op2 + op3;
     return result;
 }
 
