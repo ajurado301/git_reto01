@@ -18,11 +18,11 @@ function multiplicacion(op1, op2) {
     return result;
 }
 
-// Función suma
-function division(op1, op2) {
-    let result = op1 / op2;
-    return result;
-};
+// // Función suma
+// function division(op1, op2) {
+//     let result = op1 / op2;
+//     return result;
+// };
 
 // Función cuadrado
 function cuadrado(op1) {
